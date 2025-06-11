@@ -2,7 +2,12 @@
   "pl_drugdealerv2": "1.2.6",
   "pl_voting": "1.0.2",
   "pl_uwucafe": "1.3.2",
-  "pl_burgershot": "1.3.4",
+  "pl_burgershot": {
+    "version": "2.0.0",
+    "notes": [
+      "Released V2 of the Script. Check Discord https://discord.gg/c6gXmtEf3H for Change Log."
+    ]
+  },
   "pl_tacoshop": "1.3.2",
   "pl_pizzathis": "1.3.2",
   "pl_pearls": "1.3.2",

@@ -1,12 +1,10 @@
 {
   "pl_drugdealerv2": {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "notes": [
-      "Improved the Security of Events",
-      "Added Better Language Function – no need to set ox lang in server.cfg",
-      "Added Item Check for Config.Drugslist – warns if items are not defined in your framework",
-      "Improved Support for Qbox",
-      "You can now change the export object of framework from Config"
+      "Added an option to disable the Shared Item Checking",
+      "Added Support for OS Dispatch",
+      "Improved the visuals of TextUi",
     ]
   },
   "pl_voting": "1.0.2",

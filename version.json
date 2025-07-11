@@ -10,12 +10,10 @@
   "pl_voting": "1.0.2",
   "pl_uwucafe": "1.3.2",
   "pl_burgershot": {
-    "version": "2.0.6",
+    "version": "2.0.7",
     "notes": [
-      "Added animation for Cooking",
-      "Fixed PlayerMoney Function for QBox and QBCore",
-      "Added Support tstudio BurgerShot",
-      "Added AutoDetection for Framework, Target, Billing, Society, BossMenu, Clothing",
+      "Added Support with lation_UI",
+      "Added exclusive Support with modules: TextUi, Notify, Skill Check, Progressbar, ContextMenu, Input Dialog",
     ]
   },
   "pl_tacoshop": "1.3.2",

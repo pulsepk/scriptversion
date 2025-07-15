@@ -10,10 +10,12 @@
   "pl_voting": "1.0.2",
   "pl_uwucafe": "1.3.2",
   "pl_burgershot": {
-    "version": "2.0.7",
+    "version": "2.0.8",
     "notes": [
-      "Added Support with lation_UI",
-      "Added exclusive Support with modules: TextUi, Notify, Skill Check, Progressbar, ContextMenu, Input Dialog",
+      "Added Support for rcore_clothing",
+      "Added the option to select the draw and interact distance of the Item making marker",
+      "Added bouncing effect in Item making marker",
+      "Fix a bug where anyone can interact with delivery ped"
     ]
   },
   "pl_tacoshop": "1.3.2",

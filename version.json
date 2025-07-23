@@ -9,10 +9,9 @@
   },
   "pl_voting": "1.0.2",
   "pl_uwucafe": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "notes": [
-      "V2 released",
-      "Check Discord for Patch Notes"
+      "Fix Small AutoInstallSql Error",
     ]
   },
   "pl_burgershot": {

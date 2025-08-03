@@ -9,16 +9,15 @@
   },
   "pl_voting": "1.0.2",
   "pl_uwucafe": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "notes": [
-      "Fix Small AutoInstallSql Error",
+      "Fixed ESX AddonAccount Autodetection",
     ]
   },
   "pl_burgershot": {
-    "version": "2.0.9",
+    "version": "2.1.0",
     "notes": [
-      "Added AutoSQLInstall Feature",
-      "Removed Unnecessary Prints",
+      "Fixed ESX AddonAccount Autodetection",
     ]
   },
   "pl_tacoshop": "1.3.2",

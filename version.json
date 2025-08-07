@@ -15,9 +15,10 @@
     ]
   },
   "pl_burgershot": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "notes": [
-      "Fixed ESX AddonAccount Autodetection",
+      "Fixed AutoInstall SQL Error",
+      "Fixed an exploit where you can spam buy and cash without having cart items.",
     ]
   },
   "pl_tacoshop": "1.3.2",

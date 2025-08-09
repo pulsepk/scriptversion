@@ -1,10 +1,12 @@
 {
   "pl_drugdealerv2": {
-    "version": "1.3.1",
+    "version": "1.3.5",
     "notes": [
-      "Added an option to disable the Shared Item Checking",
-      "Added Support for OS Dispatch",
-      "Improved the visuals of TextUi",
+      "Added Skill Check and Notification Support for Lation Ui",
+      "Add Item Requirment for Starting the selling process",
+      "Fixed Some dispatch Typo Errors",
+      "Fixed when sometimes phone gets stuck when you use /stop-selling command",
+      "
     ]
   },
   "pl_voting": "1.0.2",

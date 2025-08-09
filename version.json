@@ -9,9 +9,12 @@
   },
   "pl_voting": "1.0.2",
   "pl_uwucafe": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "notes": [
-      "Fixed ESX AddonAccount Autodetection",
+      "Fixed Item Crafting Issue",
+      "Added Custom Billing Menu",
+      "Improve Font of Custom UI",
+      "Fixed AutoInstall SQL Error"
     ]
   },
   "pl_burgershot": {

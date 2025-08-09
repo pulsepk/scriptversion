@@ -18,10 +18,11 @@
     ]
   },
   "pl_burgershot": {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "notes": [
-      "Fixed AutoInstall SQL Error",
-      "Fixed an exploit where you can spam buy and cash without having cart items.",
+      "Added Custom Billing Menu",
+      "Improve Font of Custom UI",
+      "Added Log for Invoices"
     ]
   },
   "pl_tacoshop": "1.3.2",

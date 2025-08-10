@@ -10,20 +10,16 @@
   },
   "pl_voting": "1.0.2",
   "pl_uwucafe": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "notes": [
-      "Fixed Item Crafting Issue",
-      "Added Custom Billing Menu",
-      "Improve Font of Custom UI",
-      "Fixed AutoInstall SQL Error"
+      "Fixed Management Menu Translation",
+      "Fixed Lation Ui Context Menu On Management"
     ]
   },
   "pl_burgershot": {
-    "version": "2.1.2",
+    "version": "2.1.3",
     "notes": [
-      "Added Custom Billing Menu",
-      "Improve Font of Custom UI",
-      "Added Log for Invoices"
+      "Fixed Management Menu Translation",
     ]
   },
   "pl_tacoshop": "1.3.2",

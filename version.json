@@ -1,11 +1,8 @@
 {
   "pl_drugdealerv2": {
-    "version": "1.3.5",
+    "version": "1.3.6",
     "notes": [
-      "Added Skill Check and Notification Support for Lation Ui",
-      "Add Item Requirment for Starting the selling process",
-      "Fixed Some dispatch Typo Errors",
-      "Fixed when sometimes phone gets stuck when you use /stop-selling command",
+      "Fixed MarkedBills on QBCore"
     ]
   },
   "pl_voting": "1.0.2",

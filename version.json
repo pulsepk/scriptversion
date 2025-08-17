@@ -8,10 +8,11 @@
   },
   "pl_voting": "1.0.2",
   "pl_uwucafe": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "notes": [
-      "Fixed Management Menu Translation",
-      "Fixed Lation Ui Context Menu On Management"
+      "Added Missing Items and Animations",
+      "Fix Lation Ui Bug",
+      "Empty Cup and Water Bottle Added"
     ]
   },
   "pl_burgershot": {

@@ -7,11 +7,9 @@
     ]
   },
   "pl_uwucafe": {
-    "version": "2.0.5",
+    "version": "2.0.6",
     "notes": [
-      "Added Missing Items and Animations",
-      "Fix Lation Ui Bug",
-      "Empty Cup and Water Bottle Added"
+      "Added Missing Items and Hotfix"
     ]
   },
   "pl_burgershot": {

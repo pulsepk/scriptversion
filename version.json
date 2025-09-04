@@ -46,9 +46,9 @@
     ]
   },
   "pl_beanmachine": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "notes": [
-      ""
+      "Fix Small Ice Cube Item Typo"
     ]
   },
   "pl_pearls": "1.3.2",

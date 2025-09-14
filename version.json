@@ -52,9 +52,12 @@
     ]
   },
   "pl_beanmachine": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "notes": [
-      "Fix Small Ice Cube Item Typo"
+      "Improve Sitting",
+      "Change Open Order Command",
+      "Added Translation for handwash",
+      "Fix Has Item Function for Tgiann Inventory"
     ]
   },
   "pl_pearls": "1.3.2",

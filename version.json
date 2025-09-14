@@ -13,11 +13,12 @@
     ]
   },
   "pl_burgershot": {
-    "version": "2.1.4",
+    "version": "2.1.6",
     "notes": [
-      "Fix Kingmaps 1 Location",
-      "Fix Lation Ui Input Dialog Bug",
-      "Added Missing Emotes and Wrong Item Name"
+      "Improve Sitting",
+      "Change Open Order Command",
+      "Added Translation for handwash",
+      "Fix Has Item Function for Tgiann Inventory"
     ]
   },
   "pl_pizzathis": {

@@ -7,9 +7,12 @@
     ]
   },
   "pl_uwucafe": {
-    "version": "2.0.6",
+    "version": "2.0.7",
     "notes": [
-      "Added Missing Items and Hotfix"
+      "Improve Sitting",
+      "Change Open Order Command",
+      "Added Translation for handwash",
+      "Fix Has Item Function for Tgiann Inventory"
     ]
   },
   "pl_burgershot": {

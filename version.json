@@ -25,10 +25,12 @@
     ]
   },
   "pl_pizzathis": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "notes": [
-      "The awaited Version of PizzaThis is released",
-      "Check Discord for changelog https://discord.gg/c6gXmtEf3H"
+      "Improve Sitting",
+      "Change Open Order Command",
+      "Added Translation for handwash",
+      "Fix Has Item Function for Tgiann Inventory"
     ]
   },
   "pl_koi": {

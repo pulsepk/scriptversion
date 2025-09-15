@@ -7,12 +7,9 @@
     ]
   },
   "pl_uwucafe": {
-    "version": "2.0.7",
+    "version": "2.0.8",
     "notes": [
-      "Improve Sitting",
-      "Change Open Order Command",
-      "Added Translation for handwash",
-      "Fix Has Item Function for Tgiann Inventory"
+      "Stuck on Chair Fixed"
     ]
   },
   "pl_burgershot": {

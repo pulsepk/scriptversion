@@ -67,9 +67,9 @@
     ]
   },
   "pl_tacoshop": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "notes": [
-      "Version 2.0 Released"
+      "Improve Coordinates for QB-Target"
     ]
   },
   "pl_halloween": {

@@ -31,9 +31,9 @@
     ]
   },
   "pl_hud": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "notes": [
-      ""
+      "Added Option to Set Speedometer Unit"
     ]
   },
   "pl_diner": {

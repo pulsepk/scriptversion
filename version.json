@@ -84,7 +84,12 @@
       ""
     ]
   },
-  "pl_bubblegumcafe": "1.0.0",
+  "pl_bubblegumcafe": {
+    "version": "2.0.0",
+    "notes": [
+      "Version 2.0 Released"
+    ]
+  },
   "pl_wheelclamper":"1.0.0",
 }
 

@@ -37,15 +37,17 @@
     ]
   },
   "pl_diner": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "notes": [
-      "Stuck on Chair Fixed"
+      "Fixed SQl Error",
+      "File Changed: fxmanifest.lua, server->modules->autoinstallsql.lua"
     ]
   },
   "pl_beanmachine": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "notes": [
-      "Stuck on Chair Fixed"
+      "Fixed SQl Error",
+      "File Changed: fxmanifest.lua, server->modules->autoinstallsql.lua"
     ]
   },
   "pl_upantom": {
@@ -67,9 +69,10 @@
     ]
   },
   "pl_tacoshop": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "notes": [
-      "Added Missing Emotes"
+      "Fixed SQl Error",
+      "File Changed: fxmanifest.lua, server->modules->autoinstallsql.lua"
     ]
   },
   "pl_halloween": {

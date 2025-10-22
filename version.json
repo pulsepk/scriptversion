@@ -31,9 +31,9 @@
     ]
   },
   "pl_hud": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "notes": [
-      "Added Option to Set Speedometer Unit"
+      "Fix Money and Job Update on QBCore and QBox"
     ]
   },
   "pl_diner": {

@@ -63,9 +63,9 @@
     ]
   },
   "pl_pearls": {
-    "version": "2.0.1",
+    "version": "2.0.3",
     "notes": [
-      "Improve Coordinates for QB-Target"
+      "Fixed Coordinates of Cooking"
     ]
   },
   "pl_tacoshop": {

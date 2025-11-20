@@ -21,9 +21,14 @@
     ]
   },
   "pl_burgershot": {
-    "version": "2.1.7",
+    "version": "2.1.8",
     "notes": [
-      "Stuck on Chair Fixed"
+      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
+      "Enhanced item-adding functions for better reliability and validation",
+      "Added a new configuration option to enable or disable the hand-wash requirement",
+      "Improved database handling to prevent negative values and ensure safe updates",
+      "Updated and cleaned up locale translations",
+      "Improved the automatic SQL installation process for better compatibility and stability"
     ]
   },
   "pl_pizzathis": {

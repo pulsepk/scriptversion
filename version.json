@@ -32,15 +32,25 @@
     ]
   },
   "pl_pizzathis": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "notes": [
-      "Stuck on Chair Fixed"
+      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
+      "Enhanced item-adding functions for better reliability and validation",
+      "Added a new configuration option to enable or disable the hand-wash requirement",
+      "Improved database handling to prevent negative values and ensure safe updates",
+      "Updated and cleaned up locale translations",
+      "Improved the automatic SQL installation process for better compatibility and stability"
     ]
   },
   "pl_koi": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "notes": [
-      "Fix wrong items in fridge"
+      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
+      "Enhanced item-adding functions for better reliability and validation",
+      "Added a new configuration option to enable or disable the hand-wash requirement",
+      "Improved database handling to prevent negative values and ensure safe updates",
+      "Updated and cleaned up locale translations",
+      "Improved the automatic SQL installation process for better compatibility and stability"
     ]
   },
   "pl_hud": {
@@ -50,42 +60,69 @@
     ]
   },
   "pl_diner": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "notes": [
-      "Fixed SQl Error",
-      "File Changed: fxmanifest.lua, server->modules->autoinstallsql.lua"
+      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
+      "Enhanced item-adding functions for better reliability and validation",
+      "Added a new configuration option to enable or disable the hand-wash requirement",
+      "Improved database handling to prevent negative values and ensure safe updates",
+      "Updated and cleaned up locale translations",
+      "Improved the automatic SQL installation process for better compatibility and stability"
     ]
   },
   "pl_beanmachine": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "notes": [
-      "Fixed SQl Error",
-      "File Changed: fxmanifest.lua, server->modules->autoinstallsql.lua"
+      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
+      "Enhanced item-adding functions for better reliability and validation",
+      "Added a new configuration option to enable or disable the hand-wash requirement",
+      "Improved database handling to prevent negative values and ensure safe updates",
+      "Updated and cleaned up locale translations",
+      "Improved the automatic SQL installation process for better compatibility and stability"
     ]
   },
   "pl_upantom": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "notes": [
-      "Improve Coordinates for QB-Target"
+      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
+      "Enhanced item-adding functions for better reliability and validation",
+      "Added a new configuration option to enable or disable the hand-wash requirement",
+      "Improved database handling to prevent negative values and ensure safe updates",
+      "Updated and cleaned up locale translations",
+      "Improved the automatic SQL installation process for better compatibility and stability"
     ]
   },
   "pl_hornyburgers": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "notes": [
-      "Improve Coordinates for QB-Target"
+      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
+      "Enhanced item-adding functions for better reliability and validation",
+      "Added a new configuration option to enable or disable the hand-wash requirement",
+      "Improved database handling to prevent negative values and ensure safe updates",
+      "Updated and cleaned up locale translations",
+      "Improved the automatic SQL installation process for better compatibility and stability"
     ]
   },
   "pl_pearls": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "notes": [
-      "Fixed Coordinates of Cooking"
+      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
+      "Enhanced item-adding functions for better reliability and validation",
+      "Added a new configuration option to enable or disable the hand-wash requirement",
+      "Improved database handling to prevent negative values and ensure safe updates",
+      "Updated and cleaned up locale translations",
+      "Improved the automatic SQL installation process for better compatibility and stability"
     ]
   },
   "pl_tacoshop": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "notes": [
-      "Fixed SQl Error",
-      "File Changed: fxmanifest.lua, server->modules->autoinstallsql.lua"
+      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
+      "Enhanced item-adding functions for better reliability and validation",
+      "Added a new configuration option to enable or disable the hand-wash requirement",
+      "Improved database handling to prevent negative values and ensure safe updates",
+      "Updated and cleaned up locale translations",
+      "Improved the automatic SQL installation process for better compatibility and stability"
     ]
   },
   "pl_halloween": {
@@ -95,15 +132,25 @@
     ]
   },
   "pl_rustybrowns": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "notes": [
-      ""
+     "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
+      "Enhanced item-adding functions for better reliability and validation",
+      "Added a new configuration option to enable or disable the hand-wash requirement",
+      "Improved database handling to prevent negative values and ensure safe updates",
+      "Updated and cleaned up locale translations",
+      "Improved the automatic SQL installation process for better compatibility and stability"
     ]
   },
   "pl_bubblegumcafe": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "notes": [
-      "Version 2.0 Released"
+      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
+      "Enhanced item-adding functions for better reliability and validation",
+      "Added a new configuration option to enable or disable the hand-wash requirement",
+      "Improved database handling to prevent negative values and ensure safe updates",
+      "Updated and cleaned up locale translations",
+      "Improved the automatic SQL installation process for better compatibility and stability"
     ]
   },
   "pl_wheelclamper":"1.0.0",

@@ -24,7 +24,8 @@
     "version": "2.1.9",
     "notes": [
       "Fix IceMachine Bug + Code Refactor",
-      "Fix one wrong coord in tstudio mlo"
+      "Fix one wrong coord in tstudio mlo",
+      "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
     ]
   },
   "pl_pizzathis": {

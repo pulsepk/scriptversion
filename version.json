@@ -9,15 +9,11 @@
     ]
   },
   "pl_uwucafe": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "notes": [
-      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
-      "Fixed shoulder toy handling to work properly across all supported frameworks",
-      "Enhanced item-adding functions for better reliability and validation",
-      "Added a new configuration option to enable or disable the hand-wash requirement",
-      "Improved database handling to prevent negative values and ensure safe updates",
-      "Updated and cleaned up locale translations",
-      "Improved the automatic SQL installation process for better compatibility and stability"
+      "Fix IceMachine Bug + Code Refactor",
+      "Improve Inventory Module",
+      "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
     ]
   },
   "pl_burgershot": {

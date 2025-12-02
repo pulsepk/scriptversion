@@ -32,14 +32,10 @@
     ]
   },
   "pl_koi": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "notes": [
-      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
-      "Enhanced item-adding functions for better reliability and validation",
-      "Added a new configuration option to enable or disable the hand-wash requirement",
-      "Improved database handling to prevent negative values and ensure safe updates",
-      "Updated and cleaned up locale translations",
-      "Improved the automatic SQL installation process for better compatibility and stability"
+      "Fix IceMachine Bug + Code Refactor",
+      "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
     ]
   },
   "pl_hud": {
@@ -49,14 +45,10 @@
     ]
   },
   "pl_diner": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "notes": [
-      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
-      "Enhanced item-adding functions for better reliability and validation",
-      "Added a new configuration option to enable or disable the hand-wash requirement",
-      "Improved database handling to prevent negative values and ensure safe updates",
-      "Updated and cleaned up locale translations",
-      "Improved the automatic SQL installation process for better compatibility and stability"
+      "Fix IceMachine Bug + Code Refactor",
+      "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
     ]
   },
   "pl_beanmachine": {
@@ -67,47 +59,31 @@
     ]
   },
   "pl_upantom": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "notes": [
-      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
-      "Enhanced item-adding functions for better reliability and validation",
-      "Added a new configuration option to enable or disable the hand-wash requirement",
-      "Improved database handling to prevent negative values and ensure safe updates",
-      "Updated and cleaned up locale translations",
-      "Improved the automatic SQL installation process for better compatibility and stability"
+      "Fix IceMachine Bug + Code Refactor",
+      "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
     ]
   },
   "pl_hornyburgers": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "notes": [
-      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
-      "Enhanced item-adding functions for better reliability and validation",
-      "Added a new configuration option to enable or disable the hand-wash requirement",
-      "Improved database handling to prevent negative values and ensure safe updates",
-      "Updated and cleaned up locale translations",
-      "Improved the automatic SQL installation process for better compatibility and stability"
+      "Fix IceMachine Bug + Code Refactor",
+      "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
     ]
   },
   "pl_pearls": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "notes": [
-      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
-      "Enhanced item-adding functions for better reliability and validation",
-      "Added a new configuration option to enable or disable the hand-wash requirement",
-      "Improved database handling to prevent negative values and ensure safe updates",
-      "Updated and cleaned up locale translations",
-      "Improved the automatic SQL installation process for better compatibility and stability"
+      "Fix IceMachine Bug + Code Refactor",
+      "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
     ]
   },
   "pl_tacoshop": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "notes": [
-      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
-      "Enhanced item-adding functions for better reliability and validation",
-      "Added a new configuration option to enable or disable the hand-wash requirement",
-      "Improved database handling to prevent negative values and ensure safe updates",
-      "Updated and cleaned up locale translations",
-      "Improved the automatic SQL installation process for better compatibility and stability"
+      "Fix IceMachine Bug + Code Refactor",
+      "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
     ]
   },
   "pl_halloween": {
@@ -117,25 +93,17 @@
     ]
   },
   "pl_rustybrowns": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "notes": [
-     "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
-      "Enhanced item-adding functions for better reliability and validation",
-      "Added a new configuration option to enable or disable the hand-wash requirement",
-      "Improved database handling to prevent negative values and ensure safe updates",
-      "Updated and cleaned up locale translations",
-      "Improved the automatic SQL installation process for better compatibility and stability"
+     "Fix IceMachine Bug + Code Refactor",
+      "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
     ]
   },
   "pl_bubblegumcafe": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "notes": [
-      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
-      "Enhanced item-adding functions for better reliability and validation",
-      "Added a new configuration option to enable or disable the hand-wash requirement",
-      "Improved database handling to prevent negative values and ensure safe updates",
-      "Updated and cleaned up locale translations",
-      "Improved the automatic SQL installation process for better compatibility and stability"
+      "Fix IceMachine Bug + Code Refactor",
+      "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
     ]
   },
   "pl_wheelclamper":"1.0.0",

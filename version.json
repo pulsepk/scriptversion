@@ -28,7 +28,6 @@
     "version": "2.0.4",
     "notes": [
       "Fix IceMachine Bug + Code Refactor",
-      "Fix one wrong coord in tstudio mlo",
       "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
     ]
   },

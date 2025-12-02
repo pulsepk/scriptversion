@@ -60,14 +60,10 @@
     ]
   },
   "pl_beanmachine": {
-    "version": "2.0.5",
+    "version": "2.0.6",
     "notes": [
-      "Improved ice machine logic to ensure ice cubes spawn correctly and consistently",
-      "Enhanced item-adding functions for better reliability and validation",
-      "Added a new configuration option to enable or disable the hand-wash requirement",
-      "Improved database handling to prevent negative values and ensure safe updates",
-      "Updated and cleaned up locale translations",
-      "Improved the automatic SQL installation process for better compatibility and stability"
+      "Fix IceMachine Bug + Code Refactor",
+      "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
     ]
   },
   "pl_upantom": {

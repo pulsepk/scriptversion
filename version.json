@@ -17,11 +17,12 @@
     ]
   },
   "pl_burgershot": {
-    "version": "2.1.9",
+    "version": "2.2.0",
     "notes": [
-      "Fix IceMachine Bug + Code Refactor",
-      "Fix one wrong coord in tstudio mlo",
-      "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
+      "Fix Billing Event Name Error",
+      "Fix Wrong Menu Name",
+      "Improve Autodetection for Society Script",
+      "Replace files: fxmanifest.lua, client/modules/billing.lua, client/modules/menu.lua, shared/autodetect.lua"
     ]
   },
   "pl_pizzathis": {

@@ -17,12 +17,15 @@
     ]
   },
   "pl_burgershot": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "notes": [
-      "Fix Billing Event Name Error",
-      "Fix Wrong Menu Name",
-      "Improve Autodetection for Society Script",
-      "Replace files: fxmanifest.lua, client/modules/billing.lua, client/modules/menu.lua, shared/autodetect.lua"
+      "Exploit Fix",
+      "Fix 1 Wrong ItemName Spelled",
+      "Added Language Support For UI",
+      "Added Support for Snipe Banking",
+      "Added Notification for white processing marker",
+      "Updated Discord Log Picture",
+      "Replace files: Due to Multiple Files Changed, Replace everything"
     ]
   },
   "pl_pizzathis": {

@@ -17,14 +17,10 @@
     ]
   },
   "pl_burgershot": {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "notes": [
-      "Exploit Fix",
-      "Fix 1 Wrong ItemName Spelled",
-      "Added Language Support For UI",
-      "Added Support for Snipe Banking",
-      "Added Notification for white processing marker",
-      "Updated Discord Log Picture",
+      "Included NUI images in the script",
+      "Added Support for Jaksam Inventory",
       "Replace files: Due to Multiple Files Changed, Replace everything"
     ]
   },

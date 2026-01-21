@@ -61,10 +61,15 @@
     ]
   },
   "pl_beanmachine": {
-    "version": "2.0.6",
+    "version": "2.0.7",
     "notes": [
-      "Fix IceMachine Bug + Code Refactor",
-      "Replace files: fxmanifest.lua, client/IceMachine.lua, server/IceMachine.lua, shared/config.lua, shared/location.lua, locales/*.json"
+      "Exploit Fix",
+      "Added Language Support For UI",
+      "Added Support for Snipe Banking",
+      "Added Notification for white processing marker",
+      "Updated Discord Log Picture",
+      "Added Support for Jaksam Inventory",
+      "Replace files: Due to Multiple Files Changed, Replace everything"
     ]
   },
   "pl_upantom": {

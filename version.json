@@ -59,15 +59,13 @@
     ]
   },
   "pl_diner": {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "notes": [
-      "Exploit Fix",
-      "Added Language Support For UI",
-      "Added Support for Snipe Banking",
-      "Added Notification for white processing marker",
-      "Updated Discord Log Picture",
-      "Added Support for Jaksam Inventory",
-      "Replace files: Due to Multiple Files Changed, Replace everything"
+      "Improve Tgian Clothing",
+      "Added Support for Tgiann-bank",
+      "Changed Image Detection",
+      "Optimized SQL Query for better error handling",
+      "Replace files: fxmanifest.lua, client/modules/appearance.lua, client/modules/Imagespath.lua, server/modules/society.lua, server/main.lua, shared/autodetect.lua, shared/config.lua"
     ]
   },
   "pl_beanmachine": {

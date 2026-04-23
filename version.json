@@ -141,11 +141,10 @@
     ]
   },
   "pl_wheelclamper": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "notes": [
-      "Fix a bug where visual prop will disappear when you move too far away",
-      "Improve Prop Despawning on Clamp Removal",
-      "Replace files: fxmanifest.lua, client/main.lua"
+      "Fix consumable event name for qbox framework",
+      "Replace files: fxmanifest.lua, server/frameworks/qbox.lua"
     ]
   },
   "pl_christmas": {

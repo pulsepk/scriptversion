@@ -153,9 +153,13 @@
     ]
   },
   "pl_lib": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "notes": [
-      "Added Support for more banks, inventory and dispatch"
+      "Wrap all promise call for better error handling",
+      "Detection Cached",
+      "Added Client Side Player Status",
+      "Added ESX Employee management",
+      "Added SendNotification and SendMessage for LB-Phone and GKSPhone",
     ]
   },
 }

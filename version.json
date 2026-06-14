@@ -141,10 +141,9 @@
     ]
   },
   "pl_wheelclamper": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "notes": [
-      "Fix consumable event name for qbox framework",
-      "Replace files: fxmanifest.lua, server/frameworks/qbox.lua"
+      "Added pl_lib as dependency",
     ]
   },
   "pl_christmas": {
@@ -154,9 +153,9 @@
     ]
   },
   "pl_lib": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "notes": [
-      
+      "Added Support for more banks, inventory and dispatch"
     ]
   },
 }

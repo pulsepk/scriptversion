@@ -141,9 +141,9 @@
     ]
   },
   "pl_wheelclamper": {
-    "version": "2.0.3",
+    "version": "2.0.5",
     "notes": [
-      "Added pl_lib as dependency",
+      "Fixed a server console error",
     ]
   },
   "pl_christmas": {

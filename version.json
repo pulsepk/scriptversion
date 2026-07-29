@@ -153,13 +153,9 @@
     ]
   },
   "pl_lib": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "notes": [
-      "Wrap all promise call for better error handling",
-      "Detection Cached",
-      "Added Client Side Player Status",
-      "Added ESX Employee management",
-      "Added SendNotification and SendMessage for LB-Phone and GKSPhone",
+      "Added Support for One Inventory",
     ]
   },
 }

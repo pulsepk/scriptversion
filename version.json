@@ -19,13 +19,11 @@
     ]
   },
   "pl_burgershot": {
-    "version": "2.2.3",
+    "version": "3.0.0",
     "notes": [
-      "Improve Tgian Clothing",
-      "Added Support for Tgiann-bank",
-      "Changed Image Detection",
-      "Optimized SQL Query for better error handling",
-      "Replace files: fxmanifest.lua, client/modules/appearance.lua, client/modules/Imagespath.lua, server/modules/society.lua, server/main.lua, shared/autodetect.lua, shared/config.lua"
+      "Check Discord for Detailed Change Log",
+
+      "Replace files: everything"
     ]
   },
   "pl_pizzathis": {
@@ -153,9 +151,10 @@
     ]
   },
   "pl_lib": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "notes": [
-      "Added Support for One Inventory",
+      "Improve QBox Support",
+      "Added Meta data to Inventories"
     ]
   },
 }

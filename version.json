@@ -22,7 +22,6 @@
     "version": "3.0.0",
     "notes": [
       "Check Discord for Detailed Change Log",
-
       "Replace files: everything"
     ]
   },
@@ -121,7 +120,7 @@
   "pl_rustybrowns": {
     "version": "2.0.4",
     "notes": [
-     "Improve Tgian Clothing",
+      "Improve Tgian Clothing",
       "Added Support for Tgiann-bank",
       "Changed Image Detection",
       "Optimized SQL Query for better error handling",
@@ -141,14 +140,12 @@
   "pl_wheelclamper": {
     "version": "2.0.5",
     "notes": [
-      "Fixed a server console error",
+      "Fixed a server console error"
     ]
   },
   "pl_christmas": {
     "version": "1.0.0",
-    "notes": [
-      
-    ]
+    "notes": []
   },
   "pl_lib": {
     "version": "1.0.4",
@@ -157,5 +154,11 @@
       "Added Meta data to Inventories"
     ]
   },
+  "pl_testing": {
+    "version": "1.0.0",
+    "notes": [
+      "Fixed Tablet",
+      "Replace files: fxmanifest.lua"
+    ]
+  }
 }
-

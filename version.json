@@ -155,9 +155,9 @@
     ]
   },
   "pl_testing": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "notes": [
-      "Fixed Tablet",
+      "Test",
       "Replace files: fxmanifest.lua"
     ]
   }

@@ -19,14 +19,14 @@
     ]
   },
   "pl_burgershot": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "notes": [
       "Fixed shop open/close toggle sometimes not actually saving.",
       "Fixed kitchen not getting dirty from cooking.",
       "Fixed cleaning dirty props not working.",
       "Mess props now follow your interaction style setting (Target/TextUI/3D Text).",
       "Added Missing Translation",
-      "Replace files: client/modules/bossmenu.lua, client/modules/kitchen.lua, server/modules/kitchen.lua, server/modules/grill.lua, server/modules/fryer.lua, server/modules/assembly.lua, server/unlocked.lua, shared/config.lua, locales/*.json"
+      "Replace files: Files: client/modules/bossmenu.lua, client/modules/kitchen.lua, server/modules/kitchen.lua, server/modules/grill.lua, server/modules/fryer.lua, server/modules/assembly.lua, server/unlocked.lua, shared/config.lua, locales/*.json"
     ]
   },
   "pl_pizzathis": {
